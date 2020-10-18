@@ -1,0 +1,29 @@
+{
+  "name": "mockserverauth",
+  "version": "1.0.0",
+  "description": "Mock server with authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melaineboue/MockServerAuth.git"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "mock",
+    "server",
+    "node"
+  ],
+  "author": "Melaine BOUE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melaineboue/MockServerAuth/issues"
+  },
+  "homepage": "https://github.com/melaineboue/MockServerAuth#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
